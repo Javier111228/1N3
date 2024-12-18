@@ -1,4 +1,7 @@
-## Bug Bounty Profiles
+## Bug Bounty Profiles<!---
+Javier111228/Javier111228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 - https://bugcrowd.com/1N3
 - https://hackerone.com/xer0dayz
 
